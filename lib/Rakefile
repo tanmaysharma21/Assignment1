@@ -3,5 +3,5 @@
 task :default => :run
 
 task :run do
-  require  '/c/Tavisca_training/Assignment_1/git_tutorial/work/hello/lib'
+  require './lib/hello'
 end
